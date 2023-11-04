@@ -1,0 +1,15 @@
+
+1,12 pro max,120000,12,iPhone
+2,xrm,800000,60,Apple Watch
+3,Xtm,85000,24,Apple Watch
+4,2 pro,100000,10,iPad
+5,air 2,10000,10,AirPods
+6,mac book 2,300000,20,Mac
+7,mac book 3,350000,8,Mac
+8,Charger,3500,60,Other
+9,Cable,1500,600,Other
+10,Powerbank,15000,30,Other
+11,i phone 7,35000,20,iPhone
+12,i phone 7 plus,40000,8,iPhone
+13,i phone 8 plus,45000,8,iPhone
+15,XW,50000,20,Apple Watch
